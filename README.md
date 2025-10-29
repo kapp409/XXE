@@ -1,2 +1,1 @@
-# XXE
-XML external entity attack
+# XML external entity attack
